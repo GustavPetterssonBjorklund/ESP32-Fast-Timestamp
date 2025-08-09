@@ -1,0 +1,28 @@
+{
+  "name": "ESP32 Fast Timestamp",
+  "version": "1.0.0",
+  "description": "Ultra-low-overhead cycle-based timing for ESP32 (Xtensa & RISC-V) with wrap-safe comparisons.",
+  "keywords": [
+    "esp32",
+    "timestamp",
+    "timing",
+    "cycle",
+    "low-overhead",
+    "wrap-safe"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GustavPetterssonBjorklund/ESP32-Fast-Timestamp.git"
+  },
+  "authors": [
+    {
+      "name": "Gustav Pettersson",
+      "email": "gustav.pettersson2@outlook.com",
+      "maintainer": true
+    }
+  ],
+  "frameworks": "*",
+  "platforms": [
+    "espressif32"
+  ]
+}
